@@ -1,0 +1,12 @@
+I⸮ets Jul 29 2019 12:21:46
+11:03:03.807 -> 
+11:03:03.807 -> rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+11:03:03.807 -> configsip: 0, SPIWP:0xee
+11:03:03.807 -> clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+11:03:03.807 -> mode:DIO, clock div:1
+11:03:03.807 -> load:0x3fff0030,len:1184
+11:03:03.807 -> load:0x40078000,len:13260
+11:03:03.807 -> load:0x40080400,len:3028
+11:03:03.807 -> entry 0x400805e4
+11:03:04.109 -> E (23) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
+11:03:04.109 -> Kamera gagal diinisialisasi: 0x105
